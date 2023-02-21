@@ -106,7 +106,7 @@ Config = {
 			},
 		},
 		{	label = "Office Chair Store",
-			slots = 16,
+			slots = 20,
 			items = {
 				{ name = "chair25", price = 0, amount = 50, info = {}, type = "item", slot = 1, },
 				{ name = "chair26", price = 0, amount = 50, info = {}, type = "item", slot = 2, },
